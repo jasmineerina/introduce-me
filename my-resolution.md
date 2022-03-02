@@ -1,9 +1,7 @@
 # Materi
 ## Iksan Nursalim
 ### Microservice
-...
 ### Micro Frontend
-...
 # Career Plan
-## Dito
+## Iksan Nursalim
 ### Fullstack Developer
